@@ -1,0 +1,5 @@
+{
+  "name": "CrisisLink: Emergency Resource Coordinator",
+  "description": "A multi-agent web application designed to coordinate emergency response, volunteer efforts, and safety preparations through a clean, intuitive chat interface.",
+  "requestFramePermissions": []
+}
